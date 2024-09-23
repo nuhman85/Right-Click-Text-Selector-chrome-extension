@@ -1,0 +1,1 @@
+# Right-Click-Text-Selector-chrome-extension
